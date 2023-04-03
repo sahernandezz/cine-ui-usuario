@@ -1,0 +1,9 @@
+.margin-container{
+    margin-top: 4rem;
+}
+
+@media (max-width: 760px) {
+  .margin-container {
+    margin-top: 12rem;
+  }
+}
